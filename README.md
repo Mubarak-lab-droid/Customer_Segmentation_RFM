@@ -43,6 +43,9 @@ An end-to-end Power BI analytics project designed to segment retail customers us
 ---
 
 ## ⚙️ Project Setup & Installation
-1. Clone this repository:
+
+Follow these steps to explore or modify the project locally:
+
+1. *Clone the Repository:*
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone [https://github.com/Mubarak-lab-droid/Customer_Segmentation_RFM.git](https://github.com/Mubarak-lab-droid/Customer_Segmentation_RFM.git)
